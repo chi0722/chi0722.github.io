@@ -7,8 +7,8 @@ title: Hello World.
 
 # This is a Blog.
 
-```js
+{% highlight js %}
 function m() {
     console.log('Hello World.');
 }
-```
+{% endhighlight %}
